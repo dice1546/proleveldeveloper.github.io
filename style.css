@@ -1,6 +1,5 @@
 * {
     box-sizing: border-box;
-    border-radius: 13px;
   }
   
   /* Add a gray background color with some padding */
@@ -65,6 +64,8 @@
     overflow: hidden;
     background-color: #333;
     font-family: Arial, Helvetica, sans-serif;
+    border-radius: 13px;
+
   }
   
   .navbar a {
